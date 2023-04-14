@@ -1,0 +1,15 @@
+.orders {
+  background-color: aqua;
+  border-radius: 3rem;
+  margin: 10%;
+  width: 80%;
+}
+.orders h2 {
+  margin-top: 0px;
+  background-color: yellow;
+  border-radius: 1rem;
+}
+
+.orders h1 {
+  background-color: orange;
+}

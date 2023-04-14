@@ -1,0 +1,35 @@
+.form {
+  background-color: aqua;
+  border-radius: 3rem;
+  margin: 10%;
+  width: 80%;
+}
+.form label {
+  align-self: flex-start;
+  font-weight: bolder;
+}
+.form input {
+  border: 0px;
+  border-radius: 5px;
+  height: 1rem;
+  padding: 0.4rem;
+  width: 70%;
+}
+.form select {
+  border: 0px;
+  border-radius: 5px;
+  height: 2rem;
+  padding: 0.5rem;
+  width: 70%;
+}
+.form button {
+  background-color: orange;
+  border: 0px;
+  height: 1.5rem;
+  margin: 5px;
+  width: 50%;
+  border-radius: 0.7rem;
+}
+.form h1 {
+  background-color: orange;
+}
